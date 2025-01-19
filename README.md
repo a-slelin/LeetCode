@@ -9,7 +9,8 @@
 
 Решённые задачи, именованы по названию задачи на leetcode:
 
-* **9. Palindrome Number**.
+* **1. Two Sum**.
+* **9. Palindrome Number**. 
 
 ## Статус
 
